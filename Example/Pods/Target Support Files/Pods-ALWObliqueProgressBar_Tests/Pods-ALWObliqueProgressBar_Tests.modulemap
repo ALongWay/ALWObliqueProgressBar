@@ -1,0 +1,6 @@
+framework module Pods_ALWObliqueProgressBar_Tests {
+  umbrella header "Pods-ALWObliqueProgressBar_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
